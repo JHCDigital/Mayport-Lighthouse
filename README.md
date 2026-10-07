@@ -5,7 +5,7 @@
 
 # Introducing the Speaker
 ## The Mayport Lighthouse Association
-The Mayport Lighthouse Association was represented by their vice-president, Elizabeth Bogg. 
+The Mayport Lighthouse Association was represented by their vice-president, Elizabeth Boggs. 
 
 # General Overview  
 The Mayport Lighthouse has been a shining beacon on the St. Johns River since the foundation was solidified in 1859. It has dutifully guided mariners for generations. On top of that, the lighthouse has endured the Civil War, two World Wars, and a rapidly growing Bold City. In 2026, the lighthouse is moving to a new location, and it brings the history and culture of the First Coast with it. This program highlights Mayport's beginnings as a fishing village, the history of the Mayport Lighthouse as an active beacon in the sands, and the role of the lighthouse until today. As well as how the fate of the lighthouse is moving forward.
@@ -38,20 +38,33 @@ The lighthouse has been well recognized as a Floridian historic structure in urg
 # The Exhibit
 This program's physical exhibit was curated by the Jacksonville History Center's research archivist, Jason Robilio. 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8ffc7437-d34e-4a7e-b8d6-9f08f72589b7" alt=" " width="40%">
+  <img src="https://github.com/user-attachments/assets/0cd11ba0-a635-486d-850a-f83be88223e7" alt=" " width="40%">
   </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/579d5cbe-980a-428b-a770-13c2b734a612" alt=" " width="40%">
+  <img src="https://github.com/user-attachments/assets/794a2427-c08c-45c5-bc67-c8c2f142f342" alt=" " width="40%">
   </p>
 
   <p align="center">
-  <img src="https://github.com/user-attachments/assets/b78dfef5-f7c5-4517-a417-29b3df9c2f5a" alt=" " width="40%">
+  <img src="https://github.com/user-attachments/assets/e37b2a49-6789-4dc0-9222-537c53ba8050" alt=" " width="40%">
   </p>
   
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8f9bac3d-a7d2-4d11-8663-8bde959ee3e2" alt=" " width="40%">
+  <img src="https://github.com/user-attachments/assets/e57006fa-3d4d-4ea3-9063-8814ba01e381" alt=" " width="40%">
   </p>
+
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/7d467f8b-b028-4482-9011-a7247f4961e1" alt=" " width="40%">
+  </p>
+
+    <p align="center">
+  <img src="https://github.com/user-attachments/assets/7d467f8b-b028-4482-9011-a7247f4961e1" alt=" " width="40%">
+  </p>
+
+      <p align="center">
+  <img src="https://github.com/user-attachments/assets/924c19b5-fc65-4eb7-a4c6-f20e5a7d4967" alt=" " width="40%">
+  </p>
+
 
 # Gallery
 <details>
