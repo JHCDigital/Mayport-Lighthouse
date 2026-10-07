@@ -5,7 +5,10 @@
 
 # Introducing the Speaker
 ## The Mayport Lighthouse Association
-The Mayport Lighthouse Association (MLA) is a volunteer-based, nonprofit organization dedicated to the restoration, relocation and returning to the public of the St. Johns River Lighthouse. The MLA was represented by their vice-president, Elizabeth Bogg. 
+The Mayport Lighthouse Association was represented by their vice-president, Elizabeth Bogg. 
+
+## The Mission    
+The lighthouse is currently inaccessible to the public due to its current location standing on Naval Station Mayport and its front door being 8-feet under ground. The Mayport Lighthouse Association has made significant efforts to move the lighthouse to the Mayport waterfront. All of this with the goal of strengthening Mayport's community identity by preserving this historic landmark. 
 
 # General Overview  
 The Mayport Lighthouse has been a shining beacon on the St. Johns River since the foundation was solidified in 1859. It has dutifully guided mariners for generations. On top of that, the lighthouse has endured the Civil War, two World Wars, and a rapidly growing Bold City. In 2026, the lighthouse is moving to a new location, and it brings the history and culture of the First Coast with it. This program highlights Mayport's beginnings as a fishing village, the history of the Mayport Lighthouse as an active beacon in the sands, and the role of the lighthouse until today. 
@@ -23,13 +26,12 @@ The current Mayport Lighthouse was built in 1859 and was made with striking red 
 ## Lighthouse History 1929-today 
 The lighthouse lay dormant in the sands for 10 years after it was decommissioned in 1929. The Navy bought the land in the 1940s, and the lighthouse stands on the property today. The lighthouse was placed on the National Register of Historic Places in 1982, marking the significance of the lighthouse to the Jacksonville area, but challenges remained for the future of the lighthouse. Small restoration work had been completed since the lighthouse was abandoned in 1929, but major restoration work was only completed in 1985. The Navy buried the bottom eight feet of the lighthouse when building the naval station, and the front door has been inaccessible since.  
 
-Since then, the Mayport Lighthouse has been the subject of moving and removing. Most recently, in 2026, the Mayport Lighthouse Association devised a plan to move the lighthouse from its current location to Mayport Village, where it can be fully restored and opened to the public. In the same year, the Jacksonville History Center placed the lighthouse on its list of endangered historic properties. While the future of the lighthouse remains uncertain, the Mayport Lighthouse will remain a shining beacon of Jacksonville's history. 
+Since then, the Mayport Lighthouse has been the subject of moving and removing. Most recently, in 2026, the Mayport Lighthouse Association devised a plan to move the lighthouse from its current location to Mayport Village, where it can be fully restored and opened to the public. In the same year, the Jacksonville History Center placed the lighthouse on its list of endangered historic properties. With the diligent work of the MLA and their plans for the future, the Mayport Lighthouse will remain a shining beacon of Jacksonville's history. 
 
 # Mayport Lighthouse Timeline
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vSKfZxsqhPIwBskTJ7k8KUkNCStf5iRx1uuDJaActDdmR9bIwmNCc8FZ-M73kZ3qZ0xc3Sxp67cWRWZ&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-# The Mission    
 
 
 
