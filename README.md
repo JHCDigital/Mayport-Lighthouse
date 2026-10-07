@@ -7,9 +7,6 @@
 ## The Mayport Lighthouse Association
 The Mayport Lighthouse Association was represented by their vice-president, Elizabeth Bogg. 
 
-## The Mission    
-The lighthouse is currently inaccessible to the public due to its current location standing on Naval Station Mayport and its front door being 8-feet under ground. The Mayport Lighthouse Association has made significant efforts to move the lighthouse to the Mayport waterfront. All of this with the goal of strengthening Mayport's community identity by preserving this historic landmark. 
-
 # General Overview  
 The Mayport Lighthouse has been a shining beacon on the St. Johns River since the foundation was solidified in 1859. It has dutifully guided mariners for generations. On top of that, the lighthouse has endured the Civil War, two World Wars, and a rapidly growing Bold City. In 2026, the lighthouse is moving to a new location, and it brings the history and culture of the First Coast with it. This program highlights Mayport's beginnings as a fishing village, the history of the Mayport Lighthouse as an active beacon in the sands, and the role of the lighthouse until today. As well as how the fate of the lighthouse is moving forward.
 
@@ -33,7 +30,24 @@ Since then, the Mayport Lighthouse has been the subject of moving and removing. 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vSKfZxsqhPIwBskTJ7k8KUkNCStf5iRx1uuDJaActDdmR9bIwmNCc8FZ-M73kZ3qZ0xc3Sxp67cWRWZ&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 # Helen Cooper Floyd
-Helen Cooper Floyd was born in Mayport, Florida in 1922. She graduated from Florida State College for Women in 1945, and was a schoolteacher in Mayport, St Simons Island, Georgia, and Mississippi. She was a Mayport historian, and wrote "In the Shadow of the Lighthouse, a Folk History of Mayport, Florida", "Mayport Remembered, Along the Waterfront", and "Mayport Remembered, People and Places". She was an award winning columnist for the Ocean Beach Reporter in Jacksonville Beach, and is recognized for her contributions in Florida folklore, research on the Minorcans and Northeast Florida's commercial fishing industry. Floyd was crucial in the interpretation of the lighthouse and the role it played in Mayport history. She ensured that its legacy was remembered and respected as a significant structure in the city's collective memory. After her passing in 1998, her work and recognitions were carried on by her daughter, Tamara Anne Floyd. She compiled a collection of her mother's original works into a single volume titled "Mayport Memories". Tamara Floyd presented the book at the St. Johns River Lighthouse 167th Anniversary Celebration on January 31, 2026. 
+Helen Cooper Floyd was born in Mayport, Florida in 1922. She graduated from Florida State College for Women in 1945, and was a schoolteacher in Mayport, St. Simons Island, Georgia, and Mississippi. She was a Mayport historian, and wrote "In the Shadow of the Lighthouse, a Folk History of Mayport, Florida", "Mayport Remembered, Along the Waterfront", and "Mayport Remembered, People and Places". She was an award winning columnist for the Ocean Beach Reporter in Jacksonville Beach, and is recognized for her contributions in Florida folklore, research on the Minorcans and Northeast Florida's commercial fishing industry. Floyd was crucial in the interpretation of the lighthouse and the role it played in Mayport history. She ensured that its legacy was remembered and respected as a significant structure in the city's collective memory. After her passing in 1998, her work and recognitions were carried on by her daughter, Tamara Anne Floyd. She compiled a collection of her mother's original works into a single volume titled "Mayport Memories". Tamara Floyd presented the book at the St. Johns River Lighthouse 167th Anniversary Celebration on January 31, 2026. 
+
+# The Mission    
+The lighthouse has been well recognized as a Floridian historic structure in urgent need of saving and the MLA responded to the call. The lighthouse is currently inaccessible to the public due to its current location standing on Naval Station Mayport and its front door being 8-feet under ground. The Mayport Lighthouse Association has made significant efforts to move the lighthouse to the Mayport waterfront. All of this with the goal of strengthening Mayport's community identity by preserving the historic landmark. The MLA gained support from the 2025 Florida Trust for Historic Preservations "11 to Save". The program is designed to help restore and preserve historic structures that local communities nominate. The lighthouse was also placed on the Jacksonville History Center's Endangered Historic Properties list in 2026. The list allows efforts and needs for historic preservation of endangered public buildings to be recognized. The MLA has visions for restoring the lighthouse tower and lantern room on a new foundation. As well as rebuilding and attaching the oil storage house back on the structure. The restoration work is to prepare for the lighthouse to become a visitor center, museum and giftshop for Mayport and its visitors to enjoy. 
+
+# The Exhibit
+This program's physical exhibit was curated by the Jacksonville History Center's research archivist, Jason Robilio. 
+
+# Gallery
+<details>
+  <summary>Click to view Gallery</summary>
+  <img src="https://github.com/user-attachments/assets/e107bb61-4261-4d59-bb94-ef600896b462">
+  <img src="https://github.com/user-attachments/assets/8b6660b9-22a4-43f8-91dc-ec99da9e74b6">
+    <img src="https://github.com/user-attachments/assets/2e319bde-727c-40ee-997a-340d0f5f6d9a">
+  <img src="https://github.com/user-attachments/assets/ce40806e-c30e-4b5d-95dc-354d6822a647">
+   <img src="https://github.com/user-attachments/assets/d9e93862-5a45-47f8-8d26-3b0b3bef04a5">
+  
+</details>
 
 
 
