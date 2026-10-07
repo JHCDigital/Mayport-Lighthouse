@@ -32,6 +32,9 @@ Since then, the Mayport Lighthouse has been the subject of moving and removing. 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vSKfZxsqhPIwBskTJ7k8KUkNCStf5iRx1uuDJaActDdmR9bIwmNCc8FZ-M73kZ3qZ0xc3Sxp67cWRWZ&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+# Helen Cooper Floyd
+Helen Cooper Floyd was born in Mayport, Florida in 1922. She graduated from Florida State College for Women in 1945, and was a schoolteacher in Mayport, St Simons Island, Georgia, and Mississippi. She was a Mayport historian, and wrote "In the Shadow of the Lighthouse, a Folk History of Mayport, Florida", "Mayport Remembered, Along the Waterfront", and "Mayport Remembered, People and Places". She was an award winning columnist for the Ocean Beach Reporter in Jacksonville Beach, and is recognized for her contributions in Florida folklore, research on the Minorcans and Northeast Florida's commercial fishing industry. Floyd was crucial in the interpretation of the lighthouse and the role it played in Mayport history. She ensured that its legacy was remembered and respected as a significant structure in the city's collective memory. After her passing in 1998, her work and recognitions were carried on by her daughter, Tamara Anne Floyd. She compiled a collection of her mother's original works into a single volume titled "Mayport Memories". Tamara Floyd presented the book at the St. Johns River Lighthouse 167th Anniversary Celebration on January 31, 2026. 
+
 
 
 
