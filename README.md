@@ -37,6 +37,21 @@ The lighthouse has been well recognized as a Floridian historic structure in urg
 
 # The Exhibit
 This program's physical exhibit was curated by the Jacksonville History Center's research archivist, Jason Robilio. 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8ffc7437-d34e-4a7e-b8d6-9f08f72589b7" alt=" " width="40%">
+  </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/579d5cbe-980a-428b-a770-13c2b734a612" alt=" " width="40%">
+  </p>
+
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/b78dfef5-f7c5-4517-a417-29b3df9c2f5a" alt=" " width="40%">
+  </p>
+  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8f9bac3d-a7d2-4d11-8663-8bde959ee3e2" alt=" " width="40%">
+  </p>
 
 # Gallery
 <details>
