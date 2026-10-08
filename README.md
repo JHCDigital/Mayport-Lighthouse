@@ -36,14 +36,16 @@ Helen Cooper Floyd was born in Mayport, Florida in 1922. She graduated from Flor
 The lighthouse has been well recognized as a historic Florida structure in urgent need of saving and the MLA responded to the call. The lighthouse is currently inaccessible to the public due to its current location standing on Naval Station Mayport and its front door being eight feet under ground. The Mayport Lighthouse Association has made significant efforts to move the lighthouse to the Mayport waterfront. All of this with the goal of strengthening Mayport's community identity by preserving the historic landmark. The MLA gained support from the 2025 Florida Trust for Historic Preservations "11 to Save." The program is designed to help restore and preserve historic structures nominated by local communities. The lighthouse was also placed on the Jacksonville History Center's Endangered Historic Properties list in 2026. The list highlights efforts and needs for historic preservation of endangered public buildings to be recognized. The MLA has a vision to relocate and restore the lighthouse tower and lantern room on a new foundation, and to rebuild and re-attach the oil storage house on the tower. The restoration work is to prepare for the lighthouse to become a visitor center, museum, and giftshop for Mayport and its visitors to enjoy. 
 
 # The Exhibit
-This program's physical exhibit was curated by the Jacksonville History Center's research archivist Jason Robilio. 
-
   <p align="center">
   <img src="https://github.com/user-attachments/assets/82bc4cfd-9237-4cb8-a5ee-9e1efff9f31e" alt=" " width="40%">
   </p>
   
   <p align="center">
 The Mayport Lighthouse Association displayed merchandise, pamphlets and other items to promote and raise funds for its ambitious plan for the lighthouse.
+    </p>
+    
+      <p align="center">
+    This program's physical exhibit was curated by the Jacksonville History Center's research archivist Jason Robilio. 
     </p>
     
 <p align="center">
