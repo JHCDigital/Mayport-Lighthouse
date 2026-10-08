@@ -44,6 +44,12 @@ This program's physical exhibit was curated by the Jacksonville History Center's
 <p align="center">
   <img src="https://github.com/user-attachments/assets/794a2427-c08c-45c5-bc67-c8c2f142f342" alt=" " width="40%">
   </p>
+  
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/82bc4cfd-9237-4cb8-a5ee-9e1efff9f31e" alt=" " width="40%">
+  </p>
+
+The Mayport Lighthouse Association displayed merchandise, pamphlets and other items to promote and raise funds for its ambitious plan for the lighthouse.
 
   <p align="center">
   <img src="https://github.com/user-attachments/assets/e37b2a49-6789-4dc0-9222-537c53ba8050" alt=" " width="40%">
