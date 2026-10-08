@@ -15,12 +15,12 @@ Mayport started as a small fishing village along the St. Johns in 1827. Original
 
 In the 1940s, the Navy purchased the land in and around Mayport to build a naval station at a strategic point on the St. Johns. The massive and sophisticated naval base became the most recognizable landmark in the area. Naval Station Mayport was heavily involved in World War II and was equally active in the Cold War. The station has housed half a dozen different aircraft carriers and dozens of other support ships and cruisers. Today, Naval Station Mayport remains a fixture at the mouth of the St. Johns, and nestled next to it is the small town of Mayport, which still produces a vibrant fishing industry.
 
-## lighthouse History Until 1929 
+## Lighthouse History Until 1929 
 The need for a lighthouse on the St. Johns was apparent by the early 1800s. The first lighthouse erected around the St. Johns was built in 1830 and was in service until 1833 before ocean erosion forced its demolition. A second lighthouse was built in 1835 a mile away but was too far inland for use and later demolished. Mayport remained without a lighthouse for over 20 years until the lighthouse we know today was constructed.  
 
 The current St. Johns River Light was built in 1859 and was made with striking red brick, a stark contrast to the white sand dunes. The lighthouse stood 80 feet tall and was less than a quarter mile from the riverfront. lighthouse service was suspended in 1861 during the Civil War, though the lighthouse keeper at that time, John Daniels, remained at the lighthouse. Service resumed after the Civil War on July 4, 1867. Following requests for a more prominent light source along the river, the U.S. Lighthouse Board planned to raise the height of the lighthouse to another twelve feet, but this was not carried out. The lighthouse was decommissioned in 1929 after 70 years of service to the St. Johns River. It was replaced with a lightship that same year, and the lightship was then replaced in 1954 by a new lighthouse two miles away.  
 
-## lighthouse History 1929-today 
+## Lighthouse History 1929-today 
 The lighthouse lay dormant in the sands for 10 years after it was decommissioned in 1929. The Navy bought the land in the 1940s, and the lighthouse stands on the property today. The lighthouse was placed on the National Register of Historic Places in 1982, marking the significance of the lighthouse to the Jacksonville area, but challenges remained for the future of the lighthouse. Small restoration work had been completed since the lighthouse was abandoned in 1929, but major restoration work was only completed in 1985. The Navy buried the lower eight feet of the lighthouse when building the naval station in the 1940s, at which time the lighthouse front door was rendered inaccessible.
 
 Since then, the Mayport lighthouse has been the subject of moving and removing. Most recently, in 2026, the Mayport Lighthouse Association devised a plan to move the lighthouse from its current location to Mayport Village, where it can be fully restored and opened to the public. In the same year, the Jacksonville History Center placed the lighthouse on its list of endangered historic properties. With the diligent work of the MLA and their plans for the future, the Mayport lighthouse will remain a shining beacon of Jacksonville's history. 
@@ -36,7 +36,7 @@ Helen Cooper Floyd was born in Mayport, Florida in 1922. She graduated from Flor
 The lighthouse has been well recognized as a historic Florida structure in urgent need of saving and the MLA responded to the call. The lighthouse is currently inaccessible to the public due to its current location standing on Naval Station Mayport and its front door being eight feet under ground. The Mayport Lighthouse Association has made significant efforts to move the lighthouse to the Mayport waterfront. All of this with the goal of strengthening Mayport's community identity by preserving the historic landmark. The MLA gained support from the 2025 Florida Trust for Historic Preservations "11 to Save." The program is designed to help restore and preserve historic structures nominated by local communities. The lighthouse was also placed on the Jacksonville History Center's Endangered Historic Properties list in 2026. The list highlights efforts and needs for historic preservation of endangered public buildings to be recognized. The MLA has a vision to relocate and restore the lighthouse tower and lantern room on a new foundation, and to rebuild and re-attach the oil storage house on the tower. The restoration work is to prepare for the lighthouse to become a visitor center, museum, and giftshop for Mayport and its visitors to enjoy. 
 
 # The Exhibit
-<p align="center">
+## <p align="center">
 The Mayport Lighthouse Association displayed merchandise, pamphlets and other items to promote and raise funds for its ambitious plan for the lighthouse.
   </p>
   
@@ -44,7 +44,7 @@ The Mayport Lighthouse Association displayed merchandise, pamphlets and other it
   <img src="https://github.com/user-attachments/assets/82bc4cfd-9237-4cb8-a5ee-9e1efff9f31e" alt=" " width="40%">
   </p>
     
-<p align="center">
+## <p align="center">
 This program's physical exhibit was curated by the Jacksonville History Center's research archivist Jason Robilio. 
 </p>
     
