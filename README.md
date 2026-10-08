@@ -40,7 +40,7 @@ The lighthouse has been well recognized as a historic Florida structure in urgen
   <img src="https://github.com/user-attachments/assets/82bc4cfd-9237-4cb8-a5ee-9e1efff9f31e" alt=" " width="40%">
   </p>
   
-  <p align="center">
+<p align="center">
 The Mayport Lighthouse Association displayed merchandise, pamphlets and other items to promote and raise funds for its ambitious plan for the lighthouse.
     </p>
     
