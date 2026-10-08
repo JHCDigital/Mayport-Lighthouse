@@ -37,6 +37,15 @@ The lighthouse has been well recognized as a historic Florida structure in urgen
 
 # The Exhibit
 This program's physical exhibit was curated by the Jacksonville History Center's research archivist Jason Robilio. 
+
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/82bc4cfd-9237-4cb8-a5ee-9e1efff9f31e" alt=" " width="40%">
+  </p>
+  
+  <p align="center">
+The Mayport Lighthouse Association displayed merchandise, pamphlets and other items to promote and raise funds for its ambitious plan for the lighthouse.
+    </p>
+    
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0cd11ba0-a635-486d-850a-f83be88223e7" alt=" " width="40%">
   </p>
@@ -44,12 +53,6 @@ This program's physical exhibit was curated by the Jacksonville History Center's
 <p align="center">
   <img src="https://github.com/user-attachments/assets/794a2427-c08c-45c5-bc67-c8c2f142f342" alt=" " width="40%">
   </p>
-  
-  <p align="center">
-  <img src="https://github.com/user-attachments/assets/82bc4cfd-9237-4cb8-a5ee-9e1efff9f31e" alt=" " width="40%">
-  </p>
-
-The Mayport Lighthouse Association displayed merchandise, pamphlets and other items to promote and raise funds for its ambitious plan for the lighthouse.
 
   <p align="center">
   <img src="https://github.com/user-attachments/assets/e37b2a49-6789-4dc0-9222-537c53ba8050" alt=" " width="40%">
